@@ -1,0 +1,8 @@
+{
+  "name": "Remix Légende Studio — Atelier Digital \u0026 Création d\u0027Exception",
+  "description": "Studio d\u0027architecture web de prestige, conception d\u0027expériences numériques sur-mesure, direction artistique et ingénierie de pointe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
