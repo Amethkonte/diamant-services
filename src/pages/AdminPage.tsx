@@ -59,7 +59,7 @@ export const AdminPage: React.FC = () => {
       transmission: newVehTrans,
       mileage: newVehMileage,
       bodyType: newVehBody,
-      image: '/src/assets/images/hero_diamant_auto_1790952335405.jpg',
+      image: '/images//hero_diamant_auto_1790952335405.jpg',
       isExample: false,
       features: ['Climatisation tropicalisée', 'Carnet d’entretien complet', 'Garantie Diamant'],
       description: newVehDesc

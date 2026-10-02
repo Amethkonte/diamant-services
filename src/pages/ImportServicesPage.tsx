@@ -79,7 +79,7 @@ export const ImportServicesPage: React.FC = () => {
       {/* Hero Visual for Import */}
       <div className="relative rounded-3xl overflow-hidden aspect-[21/9] border border-[#1E60D5]/30 shadow-2xl bg-[#0A1324]">
         <img
-          src="/src/assets/images/shipping_import_port_1790952358058.jpg"
+          src="/images//shipping_import_port_1790952358058.jpg"
           alt="Logistique maritime et dédouanement Port de Dakar"
           className="w-full h-full object-cover"
         />

@@ -97,7 +97,7 @@ export const HomePage: React.FC = () => {
         {/* Background visual asset with rich blue overlay */}
         <div className="absolute inset-0 -z-10 bg-[#070D18]">
           <img
-            src="/src/assets/images/hero_diamant_auto_1790952335405.jpg"
+            src="/images//hero_diamant_auto_1790952335405.jpg"
             alt="Diamant Services Automobile — Véhicules de prestige à Dakar"
             className="w-full h-full object-cover object-center opacity-40 mix-blend-luminosity filter contrast-125"
           />
@@ -188,7 +188,7 @@ export const HomePage: React.FC = () => {
               <div className="relative rounded-2xl p-2 bg-gradient-to-b from-[#1E60D5]/30 via-white/[0.05] to-transparent border border-[#1E60D5]/30 shadow-2xl">
                 <div className="rounded-xl overflow-hidden aspect-[4/3] bg-[#0A1324] relative group">
                   <img
-                    src="/src/assets/images/showroom_luxury_fleet_1790952347276.jpg"
+                    src="/images//showroom_luxury_fleet_1790952347276.jpg"
                     alt="Flotte Diamant Services"
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
                   />
@@ -227,7 +227,7 @@ export const HomePage: React.FC = () => {
           <div className="lg:col-span-6 relative">
             <div className="relative rounded-2xl overflow-hidden border border-[#1E60D5]/20 shadow-xl bg-[#0A1324] aspect-[4/3]">
               <img
-                src="/src/assets/images/hero_diamant_auto_1790952335405.jpg"
+                src="/images//hero_diamant_auto_1790952335405.jpg"
                 alt="Concessionnaire Diamant Services"
                 className="w-full h-full object-cover"
               />
